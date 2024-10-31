@@ -11,7 +11,7 @@ This repository includes essential codes for evaluating and simulating our propo
 - **Code**: Contains model architecture and scripts for training, simulation testing, and experimental testing.
 - **Research Papers**: The papers catalog provides published papers for your reference.
 
-Due to size limit, the remaining parts can be found[here](https://drive.google.com/drive/folders/1gB1CrlsdMZx5I-VjuxEbLcNQdfHJBCy-?usp=sharing), including: 
+Due to size limit, the remaining parts can be found [here](https://drive.google.com/drive/folders/1gB1CrlsdMZx5I-VjuxEbLcNQdfHJBCy-?usp=sharing), including: 
 - **Data**: The data catalog contains the generated simulation training set, simulation validation set, simulation test set, and experimental test set.
 - **Results**: Experimental results from articles are located in the Results catalog for easy evaluation and testing.
 - **Models**: Model parameters saved by the training code
